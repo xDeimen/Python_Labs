@@ -5,7 +5,6 @@ Am folosit instrucțiunea with open(fisier, "r") as f pentru a deschide fișieru
 Am folosit o buclă for pentru a parcurge fiecare linie din fișier.
 Am folosit o altă buclă for pentru a parcurge fiecare literă din fiecare linie și, dacă litera este "p" sau "P", incrementăm variabila corespunzătoare cu 1.
 La final, returnăm o tuplă care conține numărul de litere "p" și numărul de litere "P" din fișier.
-
 '''
 
 
