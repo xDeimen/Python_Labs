@@ -1,0 +1,7 @@
+2022-04-19 10:13:34,708 - root - INFO - Application started
+2022-04-19 10:13:35,813 - module1 - INFO - Module 1 started
+2022-04-19 10:13:37,012 - module2 - WARNING - Module 2 encountered a warning
+2022-04-19 10:13:38,215 - module1 - ERROR - Module 1 encountered an error
+2022-04-19 10:13:38,318 - module2 - INFO - Module 2 started
+2022-04-19 10:13:40,112 - root - INFO - Application stopped
+2022-04-10 11:04:20,404 - root - INFO - Application started
